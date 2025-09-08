@@ -1,1 +1,2 @@
 # cyart-red-teaming
+CYART Red Teaming is a continuous security testing approach where simulated attacks are performed regularly to evaluate an organization’s defenses. It covers all phases of an attack, from reconnaissance and initial access to lateral movement and data exfiltration, helping security teams identify vulnerabilities, test detection capabilities, and improve overall resilience against real-world threats.
